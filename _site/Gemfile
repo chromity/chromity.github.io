@@ -6,4 +6,3 @@ gem 'jekyll-sitemap'
 gem 'webrick'
 gem 'github-pages', group: :jekyll_plugins
 gem 'rouge'
-gem 'html-proofer'
