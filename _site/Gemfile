@@ -5,4 +5,4 @@ gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
 gem 'webrick'
 gem 'github-pages', group: :jekyll_plugins
-gem 'rake'
+gem 'rouge'

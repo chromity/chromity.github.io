@@ -16,9 +16,10 @@ permalink: pretty
 
 baseurl: ""
 
-highlighter: none
+highlighter: rouge
 
 exclude:
+  - vendor
   - .jekyll-cache
   
 compress_html:
