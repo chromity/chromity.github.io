@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "michaeldaryl",
-    "home_page_url": "michaeldaryl.live/",
-    "feed_url": "michaeldaryl.live/feed.json",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
     "description": "write-ups and stories",
-    "icon": "michaeldaryl.live/apple-touch-icon.png",
-    "favicon": "michaeldaryl.live/favicon.ico",
+    "icon": "http://localhost:4000/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/favicon.ico",
     "expired": false,
     
     "author":  {
@@ -17,12 +17,12 @@
 "items": [
     
         {
-            "id": "michaeldaryl.live/2021/07/11/simula",
+            "id": "http://localhost:4000/2021/07/11/simula",
             "title": "Simula",
             "summary": "Sa simula may pagbati, sa hangganan ay may pamamaalam",
             "content_text": "",
             "content_html": "",
-            "url": "michaeldaryl.live/2021/07/11/simula",
+            "url": "http://localhost:4000/2021/07/11/simula",
             
             
             
@@ -41,12 +41,12 @@
         },
     
         {
-            "id": "michaeldaryl.live/2021/07/11/paano-ginawa-ang-website",
+            "id": "http://localhost:4000/2021/07/11/paano-ginawa-ang-website",
             "title": "Paano Ginawa ang Website",
             "summary": "Mga detalye sa paggawa ng website",
             "content_text": "",
             "content_html": "",
-            "url": "michaeldaryl.live/2021/07/11/paano-ginawa-ang-website",
+            "url": "http://localhost:4000/2021/07/11/paano-ginawa-ang-website",
             
             
             
