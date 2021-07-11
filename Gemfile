@@ -3,5 +3,6 @@ gem 'jekyll'
 gem 'jekyll-paginate'
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
-gem "webrick", "~> 1.7"
-gem "github-pages", group: :jekyll_plugins
+gem 'webrick'
+gem 'github-pages', group: :jekyll_plugins
+gem 'rake'
