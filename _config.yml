@@ -1,17 +1,17 @@
-site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+site: michaeldaryl
+url: https://chromity.github.io
+title: michaeldaryl
+description: write-ups and stories
 twitter:
-  username: #yourusername
+  username: michaeldaryl_
   card: summary
-  creator: #yourusername
+  creator: Michael Daryl Mayo
 author:
-  twitter: #yourusername
-  name: #yourusername
+  twitter: michaeldaryl_
+  name: Michael Daryl Mayo
   avatar:
-  email: #youremail
-  url: #yoururl
+  email: michaeldaryl.code@gmail.com
+  url: michaeldaryl.live
 permalink: pretty
 
 baseurl: ""
@@ -60,3 +60,5 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
+domain: chromity.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com

@@ -3,26 +3,12 @@ layout: page
 title: About
 ---
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+Isang Data Engineer sa isang kumpanya sa Bonifacio Global Fort.
 
-### Features
+Tuwing Sabado ay namimisikleta gamit ng kanyang roadbike na sa kalaunan ay pinalitan ng medyo okay na mountainbike.
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
+Umikot ang buhay kolehiyo sa paglilingkod. Sekretarya ng konseho ng mga mag-aaral. Napabilang sa kung ano-anong organisisasyon na hindi limitado sa IT.
 
-### Screenshot
+Highschool palang nang mahilig sa robotics at pagbabasa. Mula pagkabata ay mahilig ng magbutingting ng mga bagay-bagay upang malaman kung paano ang mga ito gumagana.
 
-![Screenshot](screenshot.png)
+Sa kasalukuyan, sinusubukang magsulat para maglahad ng sariling kwento, at magbahagi ng kaalamang walang kasiguraduhan kung mapakikinabangan.
